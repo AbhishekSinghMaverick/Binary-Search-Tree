@@ -2,4 +2,4 @@
 
 This project contains various operations on Binary Search tree.
 
-It has many operations implemnted.
+It has many operations implemented
