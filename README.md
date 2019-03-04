@@ -1,3 +1,5 @@
 # Binary-Search-Tree
 
-This project contains operations on Binary Search tree.
+This project contains various operations on Binary Search tree.
+
+It has many operations implemnted.
